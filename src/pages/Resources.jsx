@@ -72,7 +72,7 @@ export default function Resources() {
                       </span>
                       {isQuantum101 && (
                         <a
-                          href="/resources/%F0%9F%93%98%20Quantum%20101%20for%20Executives.pdf"
+                          href="/qbit-site/resources/quantum-101-for-executives.pdf"
                           target="_blank"
                           rel="noopener noreferrer"
                           className="inline-block mt-1 px-4 py-2 text-sm font-medium rounded bg-primary-600 text-white hover:bg-primary-700 transition-colors shadow"
