@@ -19,7 +19,7 @@ import Contact from './pages/Contact';
 function App() {
   return (
     <ThemeProvider>
-      <Router basename="/qbit-site">
+      <Router>
         <AnimatePresence mode="wait">
           <Routes>
             <Route path="/" element={<Layout />}>
