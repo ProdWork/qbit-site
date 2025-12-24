@@ -1,0 +1,66 @@
+[
+  {
+    "id": "quantum-readiness",
+    "title": "Quantum Readiness & Use Case Discovery",
+    "shortDescription": "Understand where quantum fits in your technology roadmap.",
+    "businessProblem": "Uncertainty about where quantum fits in your roadmap and which problems are suitable for quantum approaches.",
+    "deliverables": [
+      "Quantum readiness assessment",
+      "Use case mapping and prioritization",
+      "Executive briefing and roadmap",
+      "Technical feasibility report"
+    ],
+    "timeline": "2–4 weeks",
+    "outcomes": "Clear understanding of quantum's relevance to your business, prioritized pilot opportunities, and a practical roadmap.",
+    "icon": "Compass",
+    "color": "#6366f1"
+  },
+  {
+    "id": "hybrid-optimization",
+    "title": "Hybrid Optimization & Simulation Pilots",
+    "shortDescription": "Test quantum-inspired solutions on real optimization problems.",
+    "businessProblem": "Bottlenecks in classical optimization and simulation that limit operational efficiency.",
+    "deliverables": [
+      "Pilot design and architecture",
+      "Hybrid algorithm implementation",
+      "Performance benchmarking vs classical",
+      "Scalability analysis"
+    ],
+    "timeline": "4–8 weeks",
+    "outcomes": "Evidence of quantum-inspired value, actionable insights for scaling, and clear next steps.",
+    "icon": "Cpu",
+    "color": "#10b981"
+  },
+  {
+    "id": "quantum-ml",
+    "title": "Quantum ML Experimentation",
+    "shortDescription": "Explore quantum machine learning for data-driven challenges.",
+    "businessProblem": "Complex ML problems where classical approaches are reaching limits.",
+    "deliverables": [
+      "Quantum ML pilot setup",
+      "Quantum-classical model comparison",
+      "Feasibility and performance report",
+      "Recommendations for production"
+    ],
+    "timeline": "6–10 weeks",
+    "outcomes": "Realistic view of quantum ML potential for your use case, with next-step recommendations.",
+    "icon": "Brain",
+    "color": "#8b5cf6"
+  },
+  {
+    "id": "quantum-software",
+    "title": "Quantum Software Engineering",
+    "shortDescription": "Build and integrate quantum software with enterprise systems.",
+    "businessProblem": "Need for robust, maintainable quantum software components integrated with existing infrastructure.",
+    "deliverables": [
+      "SDK integration and setup",
+      "Workflow automation",
+      "Code reviews and best practices",
+      "Documentation and training"
+    ],
+    "timeline": "3–6 weeks",
+    "outcomes": "Robust, maintainable quantum software components ready for enterprise use.",
+    "icon": "Code",
+    "color": "#ec4899"
+  }
+]

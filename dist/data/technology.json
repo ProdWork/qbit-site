@@ -1,0 +1,54 @@
+{
+  "sdks": [
+    {
+      "name": "Qiskit",
+      "description": "IBM's open-source quantum computing framework. Full-stack from circuits to hardware.",
+      "url": "https://qiskit.org",
+      "icon": "Code"
+    },
+    {
+      "name": "Cirq",
+      "description": "Google's Python library for writing, manipulating, and optimizing quantum circuits.",
+      "url": "https://quantumai.google/cirq",
+      "icon": "Code"
+    },
+    {
+      "name": "PennyLane",
+      "description": "Cross-platform Python library for quantum machine learning and differentiable programming.",
+      "url": "https://pennylane.ai",
+      "icon": "Code"
+    }
+  ],
+  "platforms": [
+    {
+      "name": "IBM Quantum",
+      "description": "Access to IBM's quantum processors and simulators via cloud.",
+      "icon": "Cloud"
+    },
+    {
+      "name": "AWS Braket",
+      "description": "Amazon's managed quantum computing service with multiple hardware providers.",
+      "icon": "Cloud"
+    },
+    {
+      "name": "Azure Quantum",
+      "description": "Microsoft's quantum computing platform with diverse hardware options.",
+      "icon": "Cloud"
+    }
+  ],
+  "classical": [
+    {
+      "name": "Python",
+      "description": "Primary language for quantum algorithm development and integration."
+    },
+    {
+      "name": "C++",
+      "description": "Performance-critical components and quantum simulators."
+    },
+    {
+      "name": "Cloud-Native Tools",
+      "description": "Kubernetes, Docker, and CI/CD for scalable deployment."
+    }
+  ],
+  "whyHybrid": "Today's quantum hardware is limited by qubit counts, noise, and connectivity. Hybrid quantum-classical approaches deliver value now by combining the strengths of both paradigms, while preparing your infrastructure for future quantum advances."
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "id": "healthcare",
+    "name": "Healthcare",
+    "icon": "Heart",
+    "color": "#ef4444",
+    "description": "Quantum-inspired solutions for healthcare optimization and drug discovery.",
+    "decisionProblems": [
+      "Treatment optimization and personalization",
+      "Resource allocation across facilities",
+      "Molecular simulation for drug discovery",
+      "Clinical trial optimization"
+    ],
+    "nearTermPilots": [
+      "Staff and operating room scheduling",
+      "Patient flow optimization",
+      "Drug discovery simulation",
+      "Supply chain optimization"
+    ],
+    "dataRequired": [
+      "Patient records and demographics",
+      "Operational data (schedules, resources)",
+      "Molecular datasets",
+      "Clinical trial data"
+    ]
+  },
+  {
+    "id": "banking",
+    "name": "Banking & Finance",
+    "icon": "Building",
+    "color": "#3b82f6",
+    "description": "Advanced optimization and risk modeling for financial services.",
+    "decisionProblems": [
+      "Portfolio optimization",
+      "Fraud detection and prevention",
+      "Risk modeling and stress testing",
+      "Derivative pricing"
+    ],
+    "nearTermPilots": [
+      "Asset allocation optimization",
+      "Scenario simulation and Monte Carlo",
+      "Transaction pattern analysis",
+      "Credit risk modeling"
+    ],
+    "dataRequired": [
+      "Financial transactions",
+      "Market data and indices",
+      "Risk metrics and exposures",
+      "Customer behavior data"
+    ]
+  },
+  {
+    "id": "supply-chain",
+    "name": "Supply Chain & Logistics",
+    "icon": "Truck",
+    "color": "#f59e0b",
+    "description": "Optimization solutions for complex logistics and supply chain networks.",
+    "decisionProblems": [
+      "Vehicle routing and scheduling",
+      "Inventory management",
+      "Demand forecasting",
+      "Network optimization"
+    ],
+    "nearTermPilots": [
+      "Last-mile delivery optimization",
+      "Warehouse placement",
+      "Supplier risk analysis",
+      "Disruption simulation"
+    ],
+    "dataRequired": [
+      "Shipment records and routes",
+      "Inventory levels and turnover",
+      "Supplier data and lead times",
+      "Demand history"
+    ]
+  }
+]

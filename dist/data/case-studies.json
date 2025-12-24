@@ -1,0 +1,68 @@
+[
+  {
+    "id": "supply-chain-routing",
+    "title": "Supply Chain Routing Optimization",
+    "industry": "Logistics",
+    "problem": "A global logistics company needed to optimize routing for 500+ delivery vehicles across multiple cities, facing exponential complexity with classical solvers.",
+    "whatWasTested": "Hybrid quantum-classical algorithms using D-Wave quantum annealing and classical MILP solvers in parallel.",
+    "results": {
+      "worked": [
+        "Quantum-inspired methods matched classical performance on medium-scale problems",
+        "Hybrid approach reduced solution time by 35% on specific problem instances",
+        "Identified problem structures particularly suited to quantum approaches"
+      ],
+      "didNotWork": [
+        "Pure quantum solutions struggled with real-world constraints",
+        "Hardware limitations restricted problem size to 200 variables",
+        "Integration with existing systems required significant engineering"
+      ]
+    },
+    "businessInsight": "Hybrid approaches are viable for pilot-scale problems; full quantum advantage remains future-facing. The client now has a clear roadmap for scaling as hardware improves.",
+    "timeline": "8 weeks",
+    "color": "#f59e0b"
+  },
+  {
+    "id": "portfolio-optimization",
+    "title": "Portfolio Optimization Pilot",
+    "industry": "Banking",
+    "problem": "An asset management firm wanted to test quantum approaches for multi-asset portfolio optimization with complex constraints.",
+    "whatWasTested": "Variational quantum eigensolver (VQE) and QAOA algorithms on IBM Quantum hardware, compared against classical quadratic programming.",
+    "results": {
+      "worked": [
+        "Successfully encoded portfolio optimization as QUBO problem",
+        "Demonstrated quantum workflow integration with existing risk systems",
+        "Team gained hands-on quantum computing experience"
+      ],
+      "didNotWork": [
+        "Current quantum hardware too noisy for production use",
+        "Classical solvers outperformed quantum on all tested problem sizes",
+        "High overhead for error mitigation reduced practical speedup"
+      ]
+    },
+    "businessInsight": "Quantum portfolio optimization is not ready for production, but the pilot built internal capabilities and established a monitoring framework for future hardware improvements.",
+    "timeline": "10 weeks",
+    "color": "#3b82f6"
+  },
+  {
+    "id": "drug-discovery",
+    "title": "Molecular Simulation for Drug Discovery",
+    "industry": "Healthcare",
+    "problem": "A pharmaceutical company sought to accelerate molecular property prediction for early-stage drug candidates.",
+    "whatWasTested": "Quantum chemistry simulations using PennyLane and Qiskit, focusing on small molecule ground state energy calculations.",
+    "results": {
+      "worked": [
+        "Accurate simulation of molecules up to 12 qubits",
+        "Established benchmark framework for quantum vs classical chemistry methods",
+        "Identified specific molecular structures suited for near-term quantum advantage"
+      ],
+      "didNotWork": [
+        "Larger, drug-relevant molecules exceeded current qubit capacity",
+        "Noise in current hardware limited accuracy for precise predictions",
+        "Classical density functional theory remained more practical for most use cases"
+      ]
+    },
+    "businessInsight": "Quantum chemistry shows promise for specific small-molecule problems. The client is now monitoring hardware progress and has identified target molecules for future quantum simulations.",
+    "timeline": "12 weeks",
+    "color": "#ef4444"
+  }
+]

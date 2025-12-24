@@ -1,0 +1,26 @@
+[
+  {
+    "id": "readiness-assessment",
+    "title": "Quantum Readiness Self-Assessment",
+    "description": "Interactive tool to evaluate your organization's quantum preparedness across technology, data, and team dimensions.",
+    "icon": "ClipboardCheck",
+    "type": "assessment",
+    "status": "available"
+  },
+  {
+    "id": "feasibility-scorer",
+    "title": "Use Case Feasibility Scorer",
+    "description": "Score and prioritize quantum use cases based on data availability, problem complexity, and business impact.",
+    "icon": "Calculator",
+    "type": "tool",
+    "status": "available"
+  },
+  {
+    "id": "optimization-sandbox",
+    "title": "Classical vs Quantum Optimization Sandbox",
+    "description": "Hands-on environment to compare classical and quantum-inspired optimization on real problems. Educational, not production.",
+    "icon": "FlaskConical",
+    "type": "sandbox",
+    "status": "coming-soon"
+  }
+]

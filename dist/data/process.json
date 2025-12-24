@@ -1,0 +1,39 @@
+{
+  "process": [
+    {
+      "step": 1,
+      "title": "Problem Framing",
+      "description": "We work with your team to define business objectives, constraints, and success criteria. No quantum jargon — just clear problem definition.",
+      "icon": "Target",
+      "duration": "1-2 weeks"
+    },
+    {
+      "step": 2,
+      "title": "Data Readiness",
+      "description": "We assess and prepare relevant datasets, ensuring data quality and format requirements are met for quantum and classical experiments.",
+      "icon": "Database",
+      "duration": "1-2 weeks"
+    },
+    {
+      "step": 3,
+      "title": "Classical Baseline",
+      "description": "Before testing quantum approaches, we establish performance benchmarks using state-of-the-art classical methods. This is how we measure real value.",
+      "icon": "BarChart",
+      "duration": "1-3 weeks"
+    },
+    {
+      "step": 4,
+      "title": "Quantum / Hybrid Experiments",
+      "description": "We design and execute quantum-inspired pilots, testing multiple approaches and documenting what works and what doesn't.",
+      "icon": "Cpu",
+      "duration": "2-6 weeks"
+    },
+    {
+      "step": 5,
+      "title": "Business Outcome Review",
+      "description": "We analyze results honestly, review business impact, and recommend clear next steps — whether that's scaling, waiting, or pivoting.",
+      "icon": "CheckCircle",
+      "duration": "1 week"
+    }
+  ]
+}
