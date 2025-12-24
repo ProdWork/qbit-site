@@ -1,0 +1,39 @@
+{
+  "name": "Qbit",
+  "tagline": "Quantum-inspired today, quantum-ready tomorrow",
+  "title": "Enterprise Quantum Solutions",
+  "description": "We help enterprises navigate quantum's realities — not the hype. Our approach is evidence-based, vendor-neutral, and focused on near-term business impact.",
+  "mission": "Enable responsible, evidence-based quantum adoption for enterprises.",
+  "philosophy": "Vendor-neutral, honest, and focused on real business outcomes.",
+  "commitment": "No hype, no exaggeration — just practical quantum solutions.",
+  "email": "contact@qbit.io",
+  "location": "Global",
+  "stats": [
+    { "label": "Enterprise Pilots", "value": "50+" },
+    { "label": "Industries Served", "value": "12" },
+    { "label": "Client Satisfaction", "value": "98%" },
+    { "label": "Years Experience", "value": "8+" }
+  ],
+  "values": [
+    {
+      "title": "Evidence-Based",
+      "description": "Every recommendation backed by data and rigorous analysis.",
+      "icon": "ChartBar"
+    },
+    {
+      "title": "Vendor-Neutral",
+      "description": "We work with all major quantum platforms — no conflicts of interest.",
+      "icon": "Scale"
+    },
+    {
+      "title": "Honest",
+      "description": "We tell you what quantum can and cannot do today.",
+      "icon": "Shield"
+    },
+    {
+      "title": "Collaborative",
+      "description": "We work alongside your team, building internal capabilities.",
+      "icon": "Users"
+    }
+  ]
+}

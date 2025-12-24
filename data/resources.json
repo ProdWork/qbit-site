@@ -1,0 +1,64 @@
+{
+  "explainers": [
+    {
+      "title": "Quantum 101 for Executives",
+      "description": "A clear, jargon-free introduction to quantum computing for business leaders.",
+      "type": "guide",
+      "readTime": "15 min"
+    },
+    {
+      "title": "Understanding Quantum Advantage",
+      "description": "What quantum advantage means, when it matters, and why it's not here yet for most use cases.",
+      "type": "guide",
+      "readTime": "10 min"
+    }
+  ],
+  "reports": [
+    {
+      "title": "State of Enterprise Quantum Readiness 2024",
+      "description": "Evidence-based assessment of current quantum computing capabilities and enterprise adoption trends.",
+      "type": "report",
+      "pages": 45
+    },
+    {
+      "title": "What Quantum Will Not Solve in 5 Years",
+      "description": "An honest analysis of quantum computing limitations and realistic timelines for enterprise impact.",
+      "type": "report",
+      "pages": 28
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Qubit",
+      "definition": "The basic unit of quantum information. Unlike classical bits (0 or 1), qubits can exist in superposition of both states."
+    },
+    {
+      "term": "Quantum Advantage",
+      "definition": "The point at which a quantum computer solves a practical problem faster or better than any classical computer."
+    },
+    {
+      "term": "NISQ",
+      "definition": "Noisy Intermediate-Scale Quantum. Describes current quantum devices with 50-1000 qubits that are error-prone but potentially useful."
+    },
+    {
+      "term": "Hybrid Algorithm",
+      "definition": "An algorithm that combines quantum and classical computing, using each for what it does best."
+    },
+    {
+      "term": "Quantum Annealing",
+      "definition": "A quantum computing approach specialized for optimization problems, used by D-Wave systems."
+    },
+    {
+      "term": "QAOA",
+      "definition": "Quantum Approximate Optimization Algorithm. A hybrid algorithm for combinatorial optimization problems."
+    },
+    {
+      "term": "VQE",
+      "definition": "Variational Quantum Eigensolver. A hybrid algorithm for finding ground state energies of molecules."
+    },
+    {
+      "term": "Quantum Supremacy",
+      "definition": "Demonstration that a quantum computer can perform a calculation impossible for classical computers. Not the same as quantum advantage."
+    }
+  ]
+}

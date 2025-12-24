@@ -1,0 +1,58 @@
+[
+  {
+    "id": "optimization",
+    "title": "Optimization & Scheduling",
+    "description": "Solve complex workforce, logistics, and resource allocation problems using hybrid quantum-classical methods.",
+    "icon": "Calendar",
+    "color": "#6366f1",
+    "useCases": [
+      "Workforce scheduling",
+      "Vehicle routing",
+      "Production planning",
+      "Resource allocation"
+    ],
+    "approach": "We combine quantum-inspired algorithms with classical solvers to find better solutions faster than traditional methods alone."
+  },
+  {
+    "id": "risk",
+    "title": "Risk & Uncertainty Modeling",
+    "description": "Advanced scenario analysis, risk quantification, and stress testing with quantum-enhanced algorithms.",
+    "icon": "Shield",
+    "color": "#ef4444",
+    "useCases": [
+      "Portfolio risk analysis",
+      "Stress testing",
+      "Scenario simulation",
+      "Monte Carlo acceleration"
+    ],
+    "approach": "Leverage quantum sampling techniques to explore more scenarios faster, improving risk assessment accuracy."
+  },
+  {
+    "id": "simulation",
+    "title": "Simulation",
+    "description": "Molecular, financial, and operational simulations for deeper insights into complex systems.",
+    "icon": "Atom",
+    "color": "#10b981",
+    "useCases": [
+      "Molecular simulation",
+      "Materials science",
+      "Financial modeling",
+      "Process simulation"
+    ],
+    "approach": "Use quantum simulation techniques to model systems that are intractable for classical computers."
+  },
+  {
+    "id": "analytics",
+    "title": "Advanced Analytics & Sampling",
+    "description": "Enhanced data sampling, pattern discovery, and predictive analytics powered by quantum techniques.",
+    "icon": "BarChart",
+    "color": "#8b5cf6",
+    "useCases": [
+      "Anomaly detection",
+      "Pattern recognition",
+      "Predictive modeling",
+      "Data clustering"
+    ],
+    "approach": "Apply quantum-inspired sampling and machine learning to uncover patterns in complex datasets."
+  }
+]

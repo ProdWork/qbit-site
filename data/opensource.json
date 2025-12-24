@@ -1,0 +1,26 @@
+{
+  "contributions": [
+    "Active contributions to major quantum SDKs",
+    "Benchmarking tools for quantum algorithm performance",
+    "Educational resources and tutorials",
+    "Open-source hybrid optimization libraries"
+  ],
+  "projects": [
+    {
+      "name": "Qiskit",
+      "description": "Contributor to IBM's open-source quantum computing framework.",
+      "url": "https://github.com/Qiskit"
+    },
+    {
+      "name": "PennyLane",
+      "description": "Supporting the quantum machine learning ecosystem.",
+      "url": "https://github.com/PennyLaneAI"
+    },
+    {
+      "name": "OpenQASM",
+      "description": "Contributing to the quantum assembly language standard.",
+      "url": "https://github.com/openqasm"
+    }
+  ],
+  "whyOpenSource": "Open source accelerates quantum adoption by ensuring transparency, enabling collaboration, and building community trust. We believe open tools and standards are essential for responsible quantum development."
+}
