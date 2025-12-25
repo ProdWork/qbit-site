@@ -16,10 +16,16 @@ import CaseStudyDetail from './pages/CaseStudyDetail';
 import About from './pages/About';
 import Contact from './pages/Contact';
 
+const routerBase = (() => {
+  const base = import.meta.env.VITE_ROUTER_BASE ?? '/';
+  if (base === '/') return '/';
+  return base.replace(/\/$/, '');
+})();
+
 function App() {
   return (
     <ThemeProvider>
-      <Router basename="/qbit-site">
+      <Router basename={routerBase}>
         <AnimatePresence mode="wait">
           <Routes>
             <Route path="/" element={<Layout />}>
