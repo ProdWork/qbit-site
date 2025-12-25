@@ -1,4 +1,4 @@
-const API_BASE = '/data';
+const API_BASE = `${import.meta.env.BASE_URL}data`;
 
 export async function fetchCompany() {
   const response = await fetch(`${API_BASE}/company.json`);
